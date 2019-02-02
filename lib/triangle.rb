@@ -1,6 +1,7 @@
 class Triangle
 
-  def kind 
+  def kind(side_one, side_two, side_three)
+    
   end 
     
     
